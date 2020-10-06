@@ -1,0 +1,16 @@
+7 8
+editing
+distance
+1 1 1
+7 8
+editing
+distance
+1 1 100
+7 8
+editing
+distance
+100 1 1
+7 8
+editing
+distance
+1 100 1
